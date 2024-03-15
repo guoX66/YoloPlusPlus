@@ -45,4 +45,4 @@ head:
 
   - [ -1, 3, C2f, [ 1024 ] ]                          # 20 (P5/32-large)
 
-  - [ [ 14, 17, 20 ], 1, Segment, [ nc,32,256 ] ]    # 21 Segment(P3, P4, P5)
+  - [ [ 14, 17, 20 ], 1, Detect, [ nc ] ]    # 21 Segment(P3, P4, P5)

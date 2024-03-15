@@ -12,7 +12,7 @@ from ultralytics import YOLO
 
 def make_yaml(curpath, train_data, class_dict):
     desired_caps = {
-        'path': f'{curpath}/assets/datasets',  # dataset root dir
+        'path': f'{curpath}/data/datasets',  # dataset root dir
         'train': 'train/images',
         'val': 'val/images',
         # Classes

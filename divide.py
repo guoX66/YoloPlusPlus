@@ -57,4 +57,4 @@ def divide_dataset(path, o_path, train_p, val_p):
     print('拆分完毕！')
 
 
-divide_dataset('assets/i_datasets', 'assets/datasets', 8, 2)
+divide_dataset('data/i_datasets', 'data/datasets', 8, 2)
