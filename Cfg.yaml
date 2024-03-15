@@ -1,0 +1,5 @@
+names:
+  0: hand
+path: D:\projects\YoloPlus/assets/datasets
+train: train/images
+val: val/images
