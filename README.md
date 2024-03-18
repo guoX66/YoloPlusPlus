@@ -26,7 +26,7 @@ Please refer to the subproject introduction for environment configuration.
 
 ## Quick start
 
-This project uses timm to implement Resnext50_32dx4. If you cannot ensure that the pre-trained model downloaded, please download the pre-trained model from release and put it into predict_weights
+This project uses timm to implement Resnext50_32dx4. If you cannot ensure that the pre-trained model downloaded, please download the pre-trained model from [Release](https://github.com/guoX66/YoloPlusPlus/releases/tag/releases-v1.0.0) and put it into predict_weights
 
 
 
