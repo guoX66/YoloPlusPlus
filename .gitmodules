@@ -1,0 +1,3 @@
+[submodule "simple_YOLO"]
+	path = simple_YOLO
+	url = https://github.com/guoX66/simple_YOLO.git
