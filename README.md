@@ -1,6 +1,10 @@
 # YoloPlusPlus   (Updating)
 
-## using Yolov8 head, modify its backbone with Resnext50_32dx4 and Unet++ structure
+### using Yolov8 head, modify its backbone with Resnext50_32dx4 and Unet++ structure
+
+### The structure of its backbone can be implemented as follows:
+
+![image](https://github.com/guoX66/YoloPlusPlus/blob/main/assets/bacbone.png)
 
 ### The project implementation is mainly in the submodule [simple_YOLO](https://github.com/guoX66/simple_YOLO)
 
